@@ -1,0 +1,5 @@
+ollama create orca2-em -f orca2-em-modelfile
+
+ollama run orca2-em
+
+ollama rm orca2-em
